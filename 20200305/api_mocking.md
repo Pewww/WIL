@@ -88,6 +88,11 @@ B와 같은 테스트 코드는 단독으로 고립되어 있지 않고 외부 �
 <br>
 === 기타 사항 ===
 
+"Dummy를 이용하여 데이터를 생성하면 테스트 케이스 내에서 어떠한 데이터를 만들어야 하는지 신경쓰지 않아도 되고, 의도한 대로 API를 호출한 경우에만 생성된 데이터를 받을 수 있기 때문에 테스트 코드가 컴포넌트의 로직을 커버할 수 있다는 믿음이 생긴다."
+
+출처: [https://imch.dev/posts/how-to-write-a-test-code-about-api-call-with-typescript?fbclid=IwAR2gj3-lz_Ykj7QFL0ZTh5B2W2pDi5Ifs9JS_T1kXM5XW5pGTqwdAY4nkD4](https://imch.dev/posts/how-to-write-a-test-code-about-api-call-with-typescript?fbclid=IwAR2gj3-lz_Ykj7QFL0ZTh5B2W2pDi5Ifs9JS_T1kXM5XW5pGTqwdAY4nkD4)
+
+----
 타입스크립트 인터페이스를 통해 임의의 데이터로 Mock 객체를 만드는 라이브러리가 존재한다.
 
 [https://github.com/google/intermock](https://github.com/google/intermock)
