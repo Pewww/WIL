@@ -71,7 +71,7 @@ describe('food reducer 테스트', () => {
     ).toEqual(DEFAULT_FOOD_STATE);
   });
 
-  it(`action에 saveFood('jjambbong')을 넘겨줄 경우 type이 'jjambbong'으로 변경된 객체를 반환해야 한다.`, () => {
+  it(`action에 saveFood('jjambbong')을 넘겨줄 경우 type이 'jjambbong'으로 변경된 state를 반환해야 한다.`, () => {
     expect(
       food(DEFAULT_FOOD_STATE, saveFood('jjambbong'))
     ).toEqual({
