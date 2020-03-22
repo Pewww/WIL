@@ -17,11 +17,9 @@ Recently의 경우 지금부터 조금 전의 '과거'를 대표하기 때문에
 
 상황에 따라서 다른 단어들로 대체가 충분히 가능할 것 같고, get이라는 표현을 주로 사용하던데 아래는 그 예시이다.
 
-My neighbor's dog gave birth to puppies and I got one from them.
+My neighbor's dog gave birth to puppies and I got one from them. (이웃집 개가 새끼를 낳았는데, 한 마리 분양받았어.)
 
--> 이웃집 개가 새끼를 낳았는데, 한 마리 분양받았어.
-
-반대로 '분양하다'의 경우, sell이라는 단어를 사용하던데 왠지 모르게 표현이 낯설게 다가온다.
+반대로 '분양하다'의 경우, sell이라는 단어를 사용하던데 왠지 모르게 표현이 낯설게(?) 다가온다.
 
 ---
 
