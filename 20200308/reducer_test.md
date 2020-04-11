@@ -53,7 +53,7 @@ import food, {
 } from '../food';
 
 describe('food reducer 테스트', () => {
-  it('saveFood 액션 생성 함수는 액션을 의도한대로 생성해야 한다.', () => { // A
+  it('saveFood 액션 생성 함수는 액션을 의도한대로 생성해야 한다.', () => {
     expect(saveFood('jjajang')).toEqual({
       type: SAVE_FOOD,
       payload: 'jjajang'
