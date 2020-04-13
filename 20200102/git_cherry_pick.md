@@ -30,3 +30,11 @@ git cherry-pick --quit
 git cherry-pick --abort
 ```
 4. 완료
+----
+**내용 추가**
+
+cherry-pick을 하는 경우 같은 내용을 갖고 있는 커밋이 여러 개 생기기 때문에 나중에는 누가 누굴 cherry-picking 했는지 모르는 상황이 발생할 수도 있다.
+
+따라서, 그리 권장하는 명령어는 아니지만 부득이하게 해당 명령어가 필요한 상황을 위해 알아두면 좋을 것 같다.
+
+참고: [https://imasoftwareengineer.tistory.com/7](https://imasoftwareengineer.tistory.com/7)
