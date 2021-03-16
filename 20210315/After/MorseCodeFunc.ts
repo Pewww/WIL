@@ -1,3 +1,5 @@
+// Implementor
+
 export default interface MorseCodeFunc {
   dot(): void;
   dash(): void;

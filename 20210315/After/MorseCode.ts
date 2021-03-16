@@ -1,4 +1,6 @@
-import MorseCodeFunc from "./MorseCodeFunc";
+// Abstraction
+
+import MorseCodeFunc from './MorseCodeFunc';
 
 export default class MorseCode {
   private func: MorseCodeFunc;
