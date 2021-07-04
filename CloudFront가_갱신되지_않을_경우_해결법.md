@@ -4,6 +4,9 @@ S3 버킷을 https로 배포하기 위해 CloudFront를 이용했는데 버킷�
 
 이런 경우 어떻게 해야할까?
 
+> ⚠️ 읽기 전 주의 사항: 임시 해결법이기 때문에 근본적인 갱신 타이밍을 변경하기 위해서는 S3와 CloudFront의 설정을 건드려야 한다!<br>
+> 이 내용은 따로 정리할 예정 :D
+
 1. 일단 CloudFront 메인 페이지로 접속한다.
 
 ![image](https://user-images.githubusercontent.com/23455736/123935932-a71bb280-d9cf-11eb-979e-d74a9bbcecb7.png)
