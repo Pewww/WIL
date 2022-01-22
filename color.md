@@ -29,6 +29,10 @@
 
 <strong style="text-decoration: underline;">밝은 색</strong>의 기준은 명도나 채도에 의해서 결정된다.
 
+**보색**: 임의의 2가지 색광을 일정 비율로 혼색하여 백색광이 되는 경우, 색상이 다른 두 색의 물감을 적당한 비율로 혼합하여 무채색이 되는 경우 (색상환에서 서로 대응되는 위치의 색)
+
+<img src="https://user-images.githubusercontent.com/23455736/150639881-4f124af8-eb5a-4054-b967-55d326f87399.png" alt="색상환" width="350">
+
 
 ### 참고
 [https://m.cafe.daum.net/artplayground/LFPA/3](https://m.cafe.daum.net/artplayground/LFPA/3)
